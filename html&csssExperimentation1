@@ -1,0 +1,14 @@
+ <!--Experimentation of code presented on Slide 27 of Presentation 02 Fundamentals of HTML and CSS-->
+<html>
+<head></head>
+<body style="font-family:Comic Sans MS;color:blue;font-size:16px;">
+  Styles are inherited by children
+
+  <p style="color:green;font-size:33px;">
+  Such as paragraphs, unless overridden
+  </p>
+
+  Simple example  
+
+</body>
+</html>
