@@ -1,5 +1,5 @@
-const fruits = ["apple", "banana", "cherry"];
+const fruits = ["apple", "orange", "grapefruit"];
 console.log(fruits[0]); // "apple"
-fruits.push("orange"); // Add to the end
+fruits.push("avocado"); // Add to the end
 console.log(fruits[3]);
 fruits.pop(); // Remove from the end
